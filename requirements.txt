@@ -1,0 +1,7 @@
+# requirements.txt
+streamlit
+pandas
+plotly
+qrcode
+Pillow
+numpy<2.0
